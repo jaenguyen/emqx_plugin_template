@@ -1,0 +1,3 @@
+-define(HOST, <<"host">>).
+-define(PORT, <<"port">>).
+-define(TOPIC, <<"topic">>).
